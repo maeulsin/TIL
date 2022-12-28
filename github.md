@@ -9,8 +9,7 @@
 
 > ## 로컬 저장소의 버전을 원격 저장소로 Push하기
 $ git push origin master
-
-
+ 
 > ## 로컬 저장소의 버전을 원격 저장소로 Pull하기
 $ git pull origin master
 
@@ -25,7 +24,7 @@ $ git pull origin master
 Clone : 원격저장소 복제
 Pull : 원격저장소 커밋 가져오기
 
-> 명령어 정리
+> ## 명령어 정리
 - git clone <url> : 원격 저장소 복제
 - git remote -v : 원격저장소 정보 확인
 - git remote add <원격저장소> <url> : 원격저장소 추가(일반적으로 origin)
