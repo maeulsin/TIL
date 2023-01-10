@@ -34,6 +34,6 @@
 [b 폴더 b.txt](b/b.txt)
 
 ## Image
-![1](1.jpg)
+![1](b/1.jpg)
 
 ![2](b/2.jpg)
