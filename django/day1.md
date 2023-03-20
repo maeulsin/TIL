@@ -22,6 +22,7 @@
 ---
 
 > ## django 프로젝트 생성 루틴 정리
+```
 **cd desktop -> cd 파일이름**
 1. 데스크탑에 파일 생성
 2. Terminal에 python -m venv venv
@@ -40,3 +41,4 @@
 15. python manage.py runserver
 
 **서버 끄기 == control + c**
+```
